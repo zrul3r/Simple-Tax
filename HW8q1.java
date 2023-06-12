@@ -1,24 +1,3 @@
-/*
-# Name : Zak Rule
-
-# Class: CSET 1200
-
-# Instructor: Dr. Jared Oluoch
-
-# Programming Assignment: 8
-
-# Date: 101420
-
-# Summary: program asks user to enter name, filing status, and 
-anual income then the program spits out how much you owe.
-
-# You must put this line as a comment at the top of your Java source file. 
-â€œThis code is my own work. I did not get any help from any online source 
-such as chegg.com; from a classmate, or any other person other than the instructor 
-or TA for this course. I understand that getting outside help from this course 
-other than from the instructor or TA will result in a grade of 0 in this 
-assignment and other disciplinary actions for academic dishonesty.â€
- */
 package hw8q1;
 
 import java.math.BigDecimal;
